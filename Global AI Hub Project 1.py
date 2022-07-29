@@ -107,8 +107,8 @@ Enter your Exam1: 45
 Enter your Exam2: 36
 Enter your Final note: 23
 Please press 'Y/y' to enter record, 'N/n' to exit or clean data c/C: N
-Name	Surname	Lesson	Exam1	Exam2	Final	Letter_grade	Situation
-
-# OUTPUT
-0	Aslı	Gül	Math	78	88	96	BA	Pass
-1	Akın	Tekin	Math	45	36	23	FF	Fail
+    
+# OUTPUT    
+    Name	Surname	  Lesson	Exam1	Exam2	Final	Letter_grade	Situation
+0	Aslı	Gül	      Math	      78	88	    96	        BA	           Pass
+1	Akın	Tekin	  Math	      45	36	    23	        FF	           Fail
