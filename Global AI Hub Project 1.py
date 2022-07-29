@@ -89,6 +89,7 @@ while True:
         break
 
 df
+df.to_excel("output.xlsx")
 
 
 
