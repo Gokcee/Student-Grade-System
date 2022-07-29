@@ -109,6 +109,6 @@ Enter your Final note: 23
 Please press 'Y/y' to enter record, 'N/n' to exit or clean data c/C: N
     
 # OUTPUT    
-        Name Surname	Lesson	Exam1	Exam2	Final	Letter_grade	Situation
+        Name    Surname	Lesson	Exam1	Exam2	Final	Letter_grade	Situation
 0	Selin	Gündüz	Math	45	85	96	BB	        Pass
 1	Emir	Yürek	Math	26	56	36	FF	        Fail
